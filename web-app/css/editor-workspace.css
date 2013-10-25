@@ -1,0 +1,12 @@
+table {
+    min-height: 300px;
+    /*max-height: 600px;*/
+
+}
+
+.editor{
+    min-height: 300px;
+}
+.height500{
+    height:500px
+}
