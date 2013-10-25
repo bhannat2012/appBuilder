@@ -48,7 +48,7 @@ YUI().use(
         new Y.AceEditor(
             {
                 boundingBox: '#myEditor',
-                mode: 'xml',
+                mode: 'java',
                 height:'450px' ,
                 width:'100%'
             }

@@ -50,6 +50,7 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Builder<b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">Create App</a></li>
+                            <li><a href="#">New File</a></li>
                             <li><a href="#">Save</a></li>
                             <li><a href="#">Save All</a></li>
                             <li class="divider"> </li>

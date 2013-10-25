@@ -23,15 +23,15 @@
                         <li><a href="#tab-1">Tab #1</a></li>
                         <li class="active"><a href="#tab-2">Tab #2</a></li>
                         <li><a href="#tab-3">Tab #3</a></li>
-                        <li><a href="#tab-4">Tab #4</a></li>
-                        <li><a href="#tab-5">Tab #5</a></li>
-                        <li><a href="#tab-6">Tab #6</a></li>
-                        <li><a href="#tab-7">Tab #7</a></li>
-                        <li><a href="#tab-8">Tab #8</a></li>
-                        <li><a href="#tab-9">Tab #9</a></li>
-                        <li><a href="#tab-10">Tab #10</a></li>
-                        <li><a href="#tab-11">Tab #11</a></li>
-                        <li><a href="#tab-12">Tab #12</a></li>
+                        %{--<li><a href="#tab-4">Tab #4</a></li>--}%
+                        %{--<li><a href="#tab-5">Tab #5</a></li>--}%
+                        %{--<li><a href="#tab-6">Tab #6</a></li>--}%
+                        %{--<li><a href="#tab-7">Tab #7</a></li>--}%
+                        %{--<li><a href="#tab-8">Tab #8</a></li>--}%
+                        %{--<li><a href="#tab-9">Tab #9</a></li>--}%
+                        %{--<li><a href="#tab-10">Tab #10</a></li>--}%
+                        %{--<li><a href="#tab-11">Tab #11</a></li>--}%
+                        %{--<li><a href="#tab-12">Tab #12</a></li>--}%
                     </ul>
 
                     <div class="tab-content ">
@@ -46,27 +46,27 @@
                         <div id="tab-3" class="tab-pane">
                             <div   id="myEditor"></div>
                         </div>
-                        <div id="tab-4">
-                            <p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>
-                        </div>
-                        <div id="tab-5">
-                            <p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>
-                        </div>
-                        <div id="tab-6">
-                            <p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>
-                        </div><div id="tab-7">
-                        <p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>
-                    </div><div id="tab-8">
-                        <p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>
-                    </div><div id="tab-9">
-                        <p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>
-                    </div><div id="tab-10">
-                        <p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>
-                    </div><div id="tab-11">
-                        <p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>
-                    </div><div id="tab-12">
-                        <p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>
-                    </div>
+                        %{--<div id="tab-4">--}%
+                            %{--<p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>--}%
+                        %{--</div>--}%
+                        %{--<div id="tab-5">--}%
+                            %{--<p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>--}%
+                        %{--</div>--}%
+                        %{--<div id="tab-6">--}%
+                            %{--<p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>--}%
+                        %{--</div><div id="tab-7">--}%
+                        %{--<p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>--}%
+                    %{--</div><div id="tab-8">--}%
+                        %{--<p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>--}%
+                    %{--</div><div id="tab-9">--}%
+                        %{--<p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>--}%
+                    %{--</div><div id="tab-10">--}%
+                        %{--<p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>--}%
+                    %{--</div><div id="tab-11">--}%
+                        %{--<p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>--}%
+                    %{--</div><div id="tab-12">--}%
+                        %{--<p>Doloremque beatae rem voluptate nulla perspiciatis atque laudantium nihil impedit molestiae fuga veritatis quibusdam nam maiores aliquid. Deserunt dolorum quas temporibus enim ex nihil nemo perspiciatis. Nisi deserunt rem id pariatur in nostrum?</p>--}%
+                    %{--</div>--}%
 
 
 
